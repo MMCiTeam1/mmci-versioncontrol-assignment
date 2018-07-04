@@ -1,5 +1,4 @@
 
-
 =======
 *Assignments*
 
@@ -13,8 +12,7 @@ Drafting a Novel has numerous benefits to realize with version control. The main
 
 **Where does it fall short in leveraging version control tools?- Tracey**
 
-In using version control for novel writing, you are only getting to use a small portion of the benefits of a version control system.
-
+In using version control for novel writing, you are only getting to use a small portion of the benefits of a version control system. Version control is widely used by software developers to provide a platform where multiple developers can work on the same project. Git, in particular, is a distributed version control system, DVCS, that allows many independent developers to have their own full version of the repository. Let's say there is a team of 20 developers, of those 10 are working on new features for a major level release, the other 10 are dedicated to answering complaint tickets from customers on other existing versions of the software program.  Each developer can work in the appropriate version of the software, making changes, fixes, new features, etc without upsetting the work of the rest. This really isn't leveraged in novel writing.  There are typically not multiple authors. At most, you have editors that may be checking latest versions for edits. Another benefit of version control that you don't really leverage in our use case of novel writing is the use of an open-source platform. In software development, you have the ability to put your software on an open-platform that allows others to make a copy of your repository and build on that work.  You can harness the power of multiple sets of eyes.  In novel writing, authors are not typically keen on having their material available to the general public, let alone allow that public to make changes, additions, etc.  
 
 **What would you do differently?- SP**
 Having branches to invoke and experiment with authors vision is although a boon, it can sometimes create unncessary diversions from the primary authors principle concepts that forms the basis of the novel. It would be good to have a feature that lets owner (in this case the parimary author) to set some pieces in stone i.e., uneditable. 
