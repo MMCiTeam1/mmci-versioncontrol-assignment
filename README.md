@@ -12,7 +12,7 @@ Drafting a Novel has numerous benefits to realize with version control. The main
 
 
 **What would you do differently?- SP**
-Having branches to invoke and experiment with authors vision is although a boon, it can sometimes create unncessary diversions from the primary authors principle concepts that forms the basis of the novel. It would be good to have a feature that lets owner (in this case the parimary author) to set some pieces in stone i.e., uneditable. 
+Having branches to invoke and experiment with authors vision is although a boon, it can sometimes create unncessary diversions from the primary authors principle concepts that forms the basis of the novel. It would be good to have a feature that lets owner (in this case the parimary author) to set some pieces in stone i.e., uneditable. The locking of the foundational elements of the story would set clear expectations for the co-authors and editors on the quintessential compenents of the story-line. 
 
 ***Each member of a team must perform a 'commit'***
 
