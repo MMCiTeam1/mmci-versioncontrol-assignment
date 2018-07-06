@@ -19,7 +19,7 @@ In using version control for novel writing, you are only getting to use a small 
 
 
 **What would you do differently?- SP**
-Having branches to invoke and experiment with authors vision is although a boon, it can sometimes create unncessary diversions from the primary authors principle concepts that forms the basis of the novel. It would be good to have a feature that lets owner (in this case the parimary author) to set some pieces in stone i.e., uneditable. 
+Having branches to invoke and experiment with authors vision although a boon, can sometimes create unncessary diversions from the primary authors principle concepts that forms the basis of the novel. It would be good to have a feature that lets owner (in this case the parimary author) to set some pieces in stone i.e., uneditable. This helps preserve the integrity of the novel and enhances the workflow. 
 
 ***Each member of a team must perform a 'commit'***
 
